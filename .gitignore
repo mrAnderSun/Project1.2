@@ -2,3 +2,7 @@
 
 *.*_old
 *.*_backup
+
+#addition
+Thumbs.db
+.DS_Store
